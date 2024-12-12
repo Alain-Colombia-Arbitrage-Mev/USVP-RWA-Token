@@ -1,0 +1,17 @@
+{
+  "bsctest": {
+    "address": "0x0170a78C1B490BfD6E1e5a970d131FA10F4ED8C6",
+    "deployer": "0xbf646CD04B14eb9159d2000e73C4C339A3C980d9",
+    "roles": {
+      "defaultAdmin": "0xbf646CD04B14eb9159d2000e73C4C339A3C980d9",
+      "pauser": "0xbf646CD04B14eb9159d2000e73C4C339A3C980d9",
+      "minter": "0x57274FFE9661e32380fAdc50C59A3b470b1E9CA4",
+      "limiter": "0x57274FFE9661e32380fAdc50C59A3b470b1E9CA4",
+      "custodian": "0xB04196E11CD8FC207BC52DeCeD7CEA2445B20323"
+    },
+    "initialSupply": "200000000.0",
+    "remainingSupply": "800000000.0",
+    "deploymentTime": "2024-12-12T10:02:29.581Z",
+    "lastUpdated": "2024-12-12T10:02:29.585Z"
+  }
+}
